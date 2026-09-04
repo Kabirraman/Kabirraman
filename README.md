@@ -1,6 +1,7 @@
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D0B14&height=110&section=header&text=AMAN&fontSize=64&fontColor=A78BFA&fontAlignY=55&animation=fadeIn" width="100%" alt="AMAN"/>
-</h1>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=header&text=AMAN&fontSize=52&fontColor=ffffff&fontAlignY=35&animation=fadeIn&gradient=0:0F0B1F,50:21153F,100:0F0B1F" width="100%"/>
+</p>
 
 <p align="center">
   <strong>Software Engineer · AI Engineer</strong>
