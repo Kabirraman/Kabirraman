@@ -166,22 +166,7 @@ IIIT Pune
 
 ---
 
-## GitHub
 
-<p align="center">
-  <a href="https://github.com/Kabirraman">
-    <img src="https://github-readme-stats.vercel.app/api?username=Kabirraman&show_icons=true&hide_border=true&bg_color=0D0B14&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=7C3AED&cache_seconds=1800" height="165" alt="GitHub Statistics"/>
-  </a>
-  <a href="https://github.com/Kabirraman">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kabirraman&layout=compact&hide_border=true&bg_color=0D0B14&title_color=A78BFA&text_color=C4B5FD&langs_count=6&cache_seconds=1800" height="165" alt="Top Languages"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kabirraman&bg_color=0D0B14&color=C4B5FD&line=7C3AED&point=A78BFA&area=true&hide_border=true&custom_title=Contribution%20Activity" width="96%" alt="Contribution Activity"/>
-</p>
-
----
 
 ## Coding Profiles
 
@@ -203,7 +188,6 @@ IIIT Pune
 
 **Indian Institute of Information Technology, Pune**  
 B.Tech. Computer Science and Engineering · 2023–2027  
-**CGPA: 7.52**
 
 **B.N.S D.A.V Public School**  
 CBSE Class XII · 2022 · **90.6%**
