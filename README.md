@@ -1,55 +1,42 @@
 # Aman
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=header&text=AMAN&fontSize=52&fontColor=ffffff&fontAlignY=35&animation=fadeIn&gradient=0:0F0B1F,50:21153F,100:0F0B1F" width="100%"/>
+  <strong>Software Engineer · AI Engineer</strong>
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Software+Engineer+%C2%B7+AI+Engineer;Building+intelligent+software+systems;AI+Agents+%C2%B7+LLMs+%C2%B7+Backend+Engineering" alt="Typing SVG"/>
-  </a>
+  Building intelligent software systems at the intersection of AI and backend engineering.
 </p>
 
 <p align="center">
-  <a href="https://github.com/Kabirraman">
-    <img src="https://img.shields.io/badge/GitHub-Kabirraman-111827?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/kabir-aman-b8b73333b">
-    <img src="https://img.shields.io/badge/LinkedIn-Kabir%20Aman-111827?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:kabiraman72600@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <a href="https://github.com/Kabirraman">GitHub</a>
+  ·
+  <a href="https://www.linkedin.com/in/kabir-aman-b8b73333b">LinkedIn</a>
+  ·
+  <a href="mailto:kabiraman72600@gmail.com">Email</a>
 </p>
 
 <p align="center">
-  <code>Software Engineering</code>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <code>AI Engineering</code>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <code>LLM Systems</code>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <code>Backend</code>
-</p>
-
-<p align="center">
-  <sub>📍 Pune, India</sub>
+  Pune, India
 </p>
 
 ---
 
-## // about
+## About
 
-I'm a Computer Science undergraduate at **IIIT Pune** focused on building intelligent software systems.
+I'm a Computer Science and Engineering undergraduate at **IIIT Pune**, focused on software engineering and AI.
 
-My work sits at the intersection of **software engineering and AI** — designing backend architectures, full-stack products, LLM applications, RAG pipelines, and agentic workflows.
+My work revolves around building **AI-powered software systems**, with a particular interest in **AI agents, LLM applications, RAG architectures, and backend engineering**.
 
-I enjoy turning complex problems into systems that are **scalable, maintainable, secure, and useful**.
+I enjoy working across the stack — from designing backend services and data architectures to integrating intelligent models into usable products.
 
-Currently exploring deeper into **AI Agents, LLM systems, retrieval architectures, and production-grade backend engineering**.
+### Currently interested in
 
-> **Open to:** Software Engineering · AI Engineering · Backend Engineering · AI/ML Internships · Open Source
+`AI Engineering` · `AI Agents` · `LLMs` · `RAG` · `Backend Engineering` · `Full-Stack Development`
 
 ---
 
-## // stack
+## Tech Stack
 
 ### Languages
 
@@ -57,202 +44,196 @@ Currently exploring deeper into **AI Agents, LLM systems, retrieval architecture
   <img src="https://skillicons.dev/icons?i=go,python,cpp,java,js,c&theme=dark" />
 </p>
 
-### Engineering
+### Frameworks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,fastapi,postgres,mongodb,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=gin,nextjs,react,tailwind,fastapi,nodejs&theme=dark" />
 </p>
 
-### AI / Data
+### AI / LLM
 
 <p>
-  <img src="https://img.shields.io/badge/LangChain-111827?style=flat-square&logo=chainlink&logoColor=A78BFA"/>
-  <img src="https://img.shields.io/badge/LangGraph-111827?style=flat-square&logo=graphql&logoColor=A78BFA"/>
-  <img src="https://img.shields.io/badge/Gemini-111827?style=flat-square&logo=google&logoColor=A78BFA"/>
-  <img src="https://img.shields.io/badge/RAG-111827?style=flat-square&logoColor=A78BFA"/>
-  <img src="https://img.shields.io/badge/AI%20Agents-111827?style=flat-square&logoColor=A78BFA"/>
-  <img src="https://img.shields.io/badge/pgvector-111827?style=flat-square&logo=postgresql&logoColor=A78BFA"/>
-  <img src="https://img.shields.io/badge/FAISS-111827?style=flat-square&logo=meta&logoColor=A78BFA"/>
+  <code>RAG</code>
+  <code>Adaptive RAG</code>
+  <code>AI Agents</code>
+  <code>Agentic Workflows</code>
+  <code>Prompt Engineering</code>
+  <code>Gemini API</code>
+  <code>Knowledge Graphs</code>
+  <code>LangChain</code>
+  <code>LangGraph</code>
 </p>
 
-### Infrastructure
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql&theme=dark" />
+  <code>pgvector</code>
+  <code>FAISS</code>
+</p>
+
+### Tools & Infrastructure
 
 <p>
   <img src="https://skillicons.dev/icons?i=docker,aws,git,github&theme=dark" />
+  <code>REST APIs</code>
+  <code>JWT</code>
+  <code>React Flow</code>
 </p>
 
 ---
 
-## // selected work
+## Selected Projects
 
-<details open>
-<summary><strong>01 · DevBrain</strong> — AI-Powered Developer Knowledge Intelligence</summary>
+<details>
+<summary><strong>DevBrain</strong> · AI-Powered Developer Knowledge Intelligence Platform</summary>
 
 <br>
 
-> A knowledge-graph-driven RAG platform that transforms technical content into an intelligent developer knowledge base.
+**Go · Gin · Next.js · PostgreSQL · pgvector · Gemini 2.5 Flash**
 
-**Built with**
+A knowledge-graph-driven RAG platform that ingests technical content from blogs and PDFs into a searchable developer knowledge base.
 
-`Go` `Gin` `Next.js` `PostgreSQL` `pgvector` `Gemini` `React Flow`
-
-**Engineering**
-
-- Automated ingestion pipelines for blogs and PDFs.
+- Automated content ingestion pipelines for technical sources.
 - Built an agentic knowledge-graph workflow using Gemini.
 - Extracted **28+ technical concepts** and mapped **59+ relationships**.
-- Implemented semantic retrieval using PostgreSQL + pgvector.
-- Built an AI Mentor for personalized learning-gap detection.
-- Secured **15+ REST endpoints** with JWT authentication.
-- Designed the backend around a modular Go architecture.
+- Visualized knowledge relationships interactively using React Flow.
+- Implemented semantic search using PostgreSQL + pgvector.
+- Built an AI Mentor with personalized learning-gap detection.
+- Secured **15+ REST API endpoints** using JWT authentication.
+- Structured the backend using a modular Go architecture.
 
-**→ [Repository](https://github.com/Kabirraman)**
-
-</details>
-
-<details>
-<summary><strong>02 · Campus Study Spot Finder</strong> — Intelligent Campus Discovery</summary>
-
-<br>
-
-> A full-stack platform for discovering and evaluating study spaces through structured data and natural-language AI search.
-
-**Built with**
-
-`Next.js` `PostgreSQL` `Prisma` `LangChain` `Gemini` `Google Places API` `NextAuth` `Cloudinary`
-
-**Engineering**
-
-- Designed a five-entity relational architecture.
-- Enabled discovery and rating of **20+ study spots**.
-- Built a LangChain + Gemini agent translating natural-language queries into database filters.
-- Added review-grounded rankings with plain-language explanations.
-- Integrated Google Places API for campus location ingestion.
-- Deduplicated locations using `googlePlaceId`.
-- Added Google OAuth authentication and Cloudinary photo uploads.
-- Seeded study locations across **9+ campus buildings**.
-
-**→ [Repository](https://github.com/Kabirraman)**
+**[Repository](https://github.com/Kabirraman)**
 
 </details>
 
 <details>
-<summary><strong>03 · Inkling</strong> — Adaptive RAG Document Intelligence</summary>
+<summary><strong>Campus Study Spot Finder</strong> · Location-Based Study Space Discovery Platform</summary>
 
 <br>
 
-> An agentic document-chat platform that dynamically routes queries across documents, web search, and LLM knowledge.
+**Next.js · PostgreSQL · Prisma · LangChain · Gemini · Google Maps/Places API · NextAuth · Cloudinary**
 
-**Built with**
+A full-stack platform for discovering and rating campus study spaces using structured attributes and natural-language search.
 
-`Next.js` `Tailwind` `FastAPI` `LangGraph` `Gemini` `FAISS` `MongoDB`
+- Designed a **5-entity relational schema** covering Spot, Rating, Photo, Building, and User.
+- Enabled students to search and rate **20+ study spots**.
+- Built a LangChain + Gemini agent that converts natural-language queries into structured database filters.
+- Generated review-grounded rankings with plain-language explanations.
+- Integrated Google Places API (New) Text Search for campus location ingestion.
+- Used `googlePlaceId` to deduplicate imported locations.
+- Seeded study spots across **9+ campus buildings**.
+- Implemented session-based authentication using NextAuth + Google OAuth.
+- Added browser-side photo uploads using Cloudinary.
 
-**Engineering**
+**[Repository](https://github.com/Kabirraman)**
 
-- Built a routing-agent architecture using LangGraph.
-- Classified queries across **3 knowledge sources**.
-- Implemented multi-PDF retrieval with FAISS.
-- Added page-level source citations for traceable responses.
-- Instrumented latency and token usage for reliability and cost monitoring.
-- Persisted complete session history using MongoDB.
-- Built the interface using Next.js and Tailwind CSS.
+</details>
 
-**→ [Repository](https://github.com/Kabirraman)**
+<details>
+<summary><strong>Inkling</strong> · Adaptive RAG Document Chat Platform</summary>
+
+<br>
+
+**Next.js · Tailwind CSS · FastAPI · LangGraph · Gemini API · FAISS · MongoDB**
+
+An adaptive RAG document-chat platform using an agentic workflow to route queries across multiple knowledge sources.
+
+- Built a routing-agent workflow using LangGraph.
+- Classified queries across **3 sources**: indexed documents, live web search, and Gemini's own knowledge.
+- Added observability for response latency and token usage.
+- Implemented page-level source citations for approximately **100% of RAG-generated responses**.
+- Supported multi-PDF retrieval through a FAISS vector index.
+- Built the interface using Next.js + Tailwind CSS.
+- Persisted session history using MongoDB.
+
+**[Repository](https://github.com/Kabirraman)**
 
 </details>
 
 ---
 
-## // experience
+## Leadership
 
 ### Co-Head · Horizon Club
 **IIIT Pune**
 
-Leading student initiatives involving coordination, communication, planning, and collaborative execution.
-
-`Leadership` `Teamwork` `Communication` `Problem Solving`
+`Leadership` · `Teamwork` · `Communication` · `Problem-Solving` · `Creative Thinking`
 
 ### Social Media Head · Trishna Cultural Fest
 **IIIT Pune**
 
-Driving digital communication and promotional initiatives while coordinating execution across student teams.
+---
 
-`Communication` `Creative Thinking` `Teamwork` `Execution`
+## Achievements
+
+| Recognition | Result |
+|:---|:---|
+| LeetCode | **150+ problems solved** |
+| CodeChef | **2★** |
+| Class XII | **90.6%** |
+| Class X | **94%** |
 
 ---
 
-## // achievements
+## GitHub
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kabirraman&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD" height="170"/>
+</p>
 
-| 150+ | 2★ | 94% | 90.6% |
-|:---:|:---:|:---:|:---:|
-| LeetCode Problems | CodeChef | Class X | Class XII |
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kabirraman&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=A78BFA&area=true&hide_border=true" width="100%"/>
 </p>
 
 ---
 
-## // coding
+## Coding Profiles
 
-<p align="center">
+<p>
   <a href="https://leetcode.com/u/Kabir_Aman/">
-    <img src="https://img.shields.io/badge/LeetCode-Kabir_Aman-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+    <img src="https://img.shields.io/badge/LeetCode-150%2B-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
   </a>
   <a href="https://www.geeksforgeeks.org/profile/kabiramagx7s">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Kabir_Aman-111827?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46"/>
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-111827?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46"/>
   </a>
   <a href="https://www.codechef.com/users/kabir_aman">
-    <img src="https://img.shields.io/badge/CodeChef-Kabir_Aman-111827?style=for-the-badge&logo=codechef&logoColor=A78BFA"/>
+    <img src="https://img.shields.io/badge/CodeChef-2%E2%98%85-111827?style=for-the-badge&logo=codechef&logoColor=A78BFA"/>
   </a>
 </p>
 
 ---
 
-## // github
+## Education
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kabirraman&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0B0912&title_color=FFFFFF&icon_color=A78BFA&text_color=A1A1AA" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kabirraman&hide_border=true&background=0B0912&ring=7C3AED&fire=A78BFA&currStreakLabel=FFFFFF&sideLabels=A1A1AA&dates=71717A" height="170"/>
-</p>
+**Indian Institute of Information Technology, Pune**  
+B.Tech. Computer Science and Engineering · 2023–2027  
+CGPA: **7.52**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kabirraman&layout=compact&hide_border=true&langs_count=8&bg_color=0B0912&title_color=FFFFFF&text_color=A1A1AA" height="170"/>
-</p>
+**B.N.S D.A.V Public School**  
+Class XII · CBSE · 2022 · **90.6%**
 
----
-
-## // activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kabirraman&bg_color=0B0912&color=A1A1AA&line=7C3AED&point=A78BFA&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
-</p>
+**B.N.S D.A.V Public School**  
+Class X · CBSE · 2020 · **94%**
 
 ---
 
-## // currently
+## Connect
 
-```yaml
-role: Software Engineer · AI Engineer
+<p align="center">
+  <a href="mailto:kabiraman72600@gmail.com">Email</a>
+  ·
+  <a href="https://www.linkedin.com/in/kabir-aman-b8b73333b">LinkedIn</a>
+  ·
+  <a href="https://github.com/Kabirraman">GitHub</a>
+  ·
+  <a href="https://leetcode.com/u/Kabir_Aman/">LeetCode</a>
+  ·
+  <a href="https://www.geeksforgeeks.org/profile/kabiramagx7s">GeeksforGeeks</a>
+  ·
+  <a href="https://www.codechef.com/users/kabir_aman">CodeChef</a>
+</p>
 
-learning:
-  - Advanced AI Agents
-  - LLM Systems
-  - Retrieval Architectures
-  - Backend & System Design
-
-building:
-  - Agentic AI systems
-  - RAG-powered applications
-  - Full-stack intelligent products
-
-exploring:
-  - Production-grade LLM applications
-  - AI infrastructure
-  - Scalable backend systems
-
-open_to:
-  - Software Engineering
-  - AI Engineering
-  - Backend Engineering
-  - Open Source
+<p align="center">
+  <sub>Building intelligent software systems with thoughtful engineering.</sub>
+</p>
