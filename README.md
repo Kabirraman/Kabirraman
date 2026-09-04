@@ -1,23 +1,25 @@
-# Aman
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D0B14&height=110&section=header&text=AMAN&fontSize=64&fontColor=A78BFA&fontAlignY=55&animation=fadeIn" width="100%" alt="AMAN"/>
+</h1>
 
 <p align="center">
   <strong>Software Engineer · AI Engineer</strong>
 </p>
 
 <p align="center">
-  Building intelligent software systems at the intersection of AI and backend engineering.
+  Building intelligent software systems at the intersection of AI and engineering.
 </p>
 
 <p align="center">
   <a href="https://github.com/Kabirraman">GitHub</a>
-  ·
+  &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/kabir-aman-b8b73333b">LinkedIn</a>
-  ·
+  &nbsp;·&nbsp;
   <a href="mailto:kabiraman72600@gmail.com">Email</a>
 </p>
 
 <p align="center">
-  Pune, India
+  <sub>⌖ Pune, India</sub>
 </p>
 
 ---
@@ -26,56 +28,50 @@
 
 I'm a Computer Science and Engineering undergraduate at **IIIT Pune**, focused on software engineering and AI.
 
-My work revolves around building **AI-powered software systems**, with a particular interest in **AI agents, LLM applications, RAG architectures, and backend engineering**.
+I build **AI-powered software systems** with a particular interest in **AI agents, LLM applications, RAG architectures, and backend engineering**.
 
-I enjoy working across the stack — from designing backend services and data architectures to integrating intelligent models into usable products.
+My approach is product-oriented: understand the problem, design the system, and build something reliable enough to be useful beyond a prototype.
 
-### Currently interested in
-
-`AI Engineering` · `AI Agents` · `LLMs` · `RAG` · `Backend Engineering` · `Full-Stack Development`
+**Focus:** `AI Engineering` · `AI Agents` · `LLMs` · `RAG` · `Backend Engineering` · `Full-Stack Development`
 
 ---
 
-## Tech Stack
+## Stack
 
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=go,python,cpp,java,js,c&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=go,python,cpp,java,js,c&theme=dark" alt="Languages"/>
 </p>
 
 ### Frameworks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=gin,nextjs,react,tailwind,fastapi,nodejs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=gin,nextjs,react,tailwind,fastapi,nodejs&theme=dark" alt="Frameworks"/>
 </p>
 
 ### AI / LLM
 
 <p>
-  <code>RAG</code>
-  <code>Adaptive RAG</code>
-  <code>AI Agents</code>
-  <code>Agentic Workflows</code>
-  <code>Prompt Engineering</code>
-  <code>Gemini API</code>
-  <code>Knowledge Graphs</code>
-  <code>LangChain</code>
-  <code>LangGraph</code>
+  <img src="https://img.shields.io/badge/RAG-18151F?style=flat-square&logoColor=A78BFA"/>
+  <img src="https://img.shields.io/badge/Adaptive_RAG-18151F?style=flat-square&logoColor=A78BFA"/>
+  <img src="https://img.shields.io/badge/AI_Agents-18151F?style=flat-square&logoColor=A78BFA"/>
+  <img src="https://img.shields.io/badge/Agentic_Workflows-18151F?style=flat-square&logoColor=A78BFA"/>
+  <img src="https://img.shields.io/badge/LangChain-18151F?style=flat-square&logo=chainlink&logoColor=A78BFA"/>
+  <img src="https://img.shields.io/badge/LangGraph-18151F?style=flat-square&logoColor=A78BFA"/>
+  <img src="https://img.shields.io/badge/Gemini_API-18151F?style=flat-square&logo=google&logoColor=A78BFA"/>
+  <img src="https://img.shields.io/badge/Knowledge_Graphs-18151F?style=flat-square&logoColor=A78BFA"/>
 </p>
 
-### Databases
+### Databases & Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,docker,aws,git,github&theme=dark" alt="Databases and Infrastructure"/>
+</p>
+
+<p>
   <code>pgvector</code>
   <code>FAISS</code>
-</p>
-
-### Tools & Infrastructure
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,git,github&theme=dark" />
   <code>REST APIs</code>
   <code>JWT</code>
   <code>React Flow</code>
@@ -83,10 +79,10 @@ I enjoy working across the stack — from designing backend services and data ar
 
 ---
 
-## Selected Projects
+## Selected Work
 
 <details>
-<summary><strong>DevBrain</strong> · AI-Powered Developer Knowledge Intelligence Platform</summary>
+<summary><strong>01 / DevBrain</strong> — AI-Powered Developer Knowledge Intelligence Platform</summary>
 
 <br>
 
@@ -94,21 +90,19 @@ I enjoy working across the stack — from designing backend services and data ar
 
 A knowledge-graph-driven RAG platform that ingests technical content from blogs and PDFs into a searchable developer knowledge base.
 
-- Automated content ingestion pipelines for technical sources.
+- Designed automated ingestion pipelines for technical content.
 - Built an agentic knowledge-graph workflow using Gemini.
 - Extracted **28+ technical concepts** and mapped **59+ relationships**.
-- Visualized knowledge relationships interactively using React Flow.
+- Visualized knowledge relationships using React Flow.
 - Implemented semantic search using PostgreSQL + pgvector.
 - Built an AI Mentor with personalized learning-gap detection.
-- Secured **15+ REST API endpoints** using JWT authentication.
-- Structured the backend using a modular Go architecture.
-
-**[Repository](https://github.com/Kabirraman)**
+- Secured **15+ REST API endpoints** with JWT authentication.
+- Structured the backend around a modular Go architecture.
 
 </details>
 
 <details>
-<summary><strong>Campus Study Spot Finder</strong> · Location-Based Study Space Discovery Platform</summary>
+<summary><strong>02 / Campus Study Spot Finder</strong> — Location-Based Study Space Discovery</summary>
 
 <br>
 
@@ -117,21 +111,19 @@ A knowledge-graph-driven RAG platform that ingests technical content from blogs 
 A full-stack platform for discovering and rating campus study spaces using structured attributes and natural-language search.
 
 - Designed a **5-entity relational schema** covering Spot, Rating, Photo, Building, and User.
-- Enabled students to search and rate **20+ study spots**.
+- Enabled discovery and rating of **20+ study spots**.
 - Built a LangChain + Gemini agent that converts natural-language queries into structured database filters.
-- Generated review-grounded rankings with plain-language explanations.
-- Integrated Google Places API (New) Text Search for campus location ingestion.
+- Added review-grounded rankings with plain-language explanations.
+- Integrated Google Places API (New) Text Search for location ingestion.
 - Used `googlePlaceId` to deduplicate imported locations.
-- Seeded study spots across **9+ campus buildings**.
+- Seeded study locations across **9+ campus buildings**.
 - Implemented session-based authentication using NextAuth + Google OAuth.
 - Added browser-side photo uploads using Cloudinary.
-
-**[Repository](https://github.com/Kabirraman)**
 
 </details>
 
 <details>
-<summary><strong>Inkling</strong> · Adaptive RAG Document Chat Platform</summary>
+<summary><strong>03 / Inkling</strong> — Adaptive RAG Document Chat Platform</summary>
 
 <br>
 
@@ -141,13 +133,11 @@ An adaptive RAG document-chat platform using an agentic workflow to route querie
 
 - Built a routing-agent workflow using LangGraph.
 - Classified queries across **3 sources**: indexed documents, live web search, and Gemini's own knowledge.
-- Added observability for response latency and token usage.
+- Instrumented response latency and token usage for cost and reliability monitoring.
 - Implemented page-level source citations for approximately **100% of RAG-generated responses**.
 - Supported multi-PDF retrieval through a FAISS vector index.
 - Built the interface using Next.js + Tailwind CSS.
 - Persisted session history using MongoDB.
-
-**[Repository](https://github.com/Kabirraman)**
 
 </details>
 
@@ -155,50 +145,55 @@ An adaptive RAG document-chat platform using an agentic workflow to route querie
 
 ## Leadership
 
-### Co-Head · Horizon Club
-**IIIT Pune**
+**Co-Head · Horizon Club**  
+IIIT Pune
 
 `Leadership` · `Teamwork` · `Communication` · `Problem-Solving` · `Creative Thinking`
 
-### Social Media Head · Trishna Cultural Fest
-**IIIT Pune**
+**Social Media Head · Trishna Cultural Fest**  
+IIIT Pune
 
 ---
 
 ## Achievements
 
-| Recognition | Result |
-|:---|:---|
-| LeetCode | **150+ problems solved** |
-| CodeChef | **2★** |
-| Class XII | **90.6%** |
-| Class X | **94%** |
+| | |
+|:---:|:---|
+| **150+** | LeetCode problems solved |
+| **2★** | CodeChef |
+| **94%** | CBSE Class X |
+| **90.6%** | CBSE Class XII |
 
 ---
 
 ## GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kabirraman&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD" height="170"/>
+  <a href="https://github.com/Kabirraman">
+    <img src="https://github-readme-stats.vercel.app/api?username=Kabirraman&show_icons=true&hide_border=true&bg_color=0D0B14&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=7C3AED&cache_seconds=1800" height="165" alt="GitHub Statistics"/>
+  </a>
+  <a href="https://github.com/Kabirraman">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kabirraman&layout=compact&hide_border=true&bg_color=0D0B14&title_color=A78BFA&text_color=C4B5FD&langs_count=6&cache_seconds=1800" height="165" alt="Top Languages"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kabirraman&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=A78BFA&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kabirraman&bg_color=0D0B14&color=C4B5FD&line=7C3AED&point=A78BFA&area=true&hide_border=true&custom_title=Contribution%20Activity" width="96%" alt="Contribution Activity"/>
 </p>
 
 ---
 
 ## Coding Profiles
 
-<p>
+<p align="center">
   <a href="https://leetcode.com/u/Kabir_Aman/">
-    <img src="https://img.shields.io/badge/LeetCode-150%2B-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+    <img src="https://img.shields.io/badge/LeetCode-150%2B-18151F?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode"/>
   </a>
   <a href="https://www.geeksforgeeks.org/profile/kabiramagx7s">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-111827?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46"/>
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-18151F?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" alt="GeeksforGeeks"/>
   </a>
   <a href="https://www.codechef.com/users/kabir_aman">
-    <img src="https://img.shields.io/badge/CodeChef-2%E2%98%85-111827?style=for-the-badge&logo=codechef&logoColor=A78BFA"/>
+    <img src="https://img.shields.io/badge/CodeChef-2%E2%98%85-18151F?style=for-the-badge&logo=codechef&logoColor=A78BFA" alt="CodeChef"/>
   </a>
 </p>
 
@@ -208,30 +203,28 @@ An adaptive RAG document-chat platform using an agentic workflow to route querie
 
 **Indian Institute of Information Technology, Pune**  
 B.Tech. Computer Science and Engineering · 2023–2027  
-CGPA: **7.52**
+**CGPA: 7.52**
 
 **B.N.S D.A.V Public School**  
-Class XII · CBSE · 2022 · **90.6%**
+CBSE Class XII · 2022 · **90.6%**
 
 **B.N.S D.A.V Public School**  
-Class X · CBSE · 2020 · **94%**
+CBSE Class X · 2020 · **94%**
 
 ---
 
 ## Connect
 
 <p align="center">
-  <a href="mailto:kabiraman72600@gmail.com">Email</a>
-  ·
-  <a href="https://www.linkedin.com/in/kabir-aman-b8b73333b">LinkedIn</a>
-  ·
-  <a href="https://github.com/Kabirraman">GitHub</a>
-  ·
-  <a href="https://leetcode.com/u/Kabir_Aman/">LeetCode</a>
-  ·
-  <a href="https://www.geeksforgeeks.org/profile/kabiramagx7s">GeeksforGeeks</a>
-  ·
-  <a href="https://www.codechef.com/users/kabir_aman">CodeChef</a>
+  <a href="mailto:kabiraman72600@gmail.com">
+    <img src="https://img.shields.io/badge/Email-18151F?style=for-the-badge&logo=gmail&logoColor=A78BFA" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/kabir-aman-b8b73333b">
+    <img src="https://img.shields.io/badge/LinkedIn-18151F?style=for-the-badge&logo=linkedin&logoColor=A78BFA" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Kabirraman">
+    <img src="https://img.shields.io/badge/GitHub-18151F?style=for-the-badge&logo=github&logoColor=A78BFA" alt="GitHub"/>
+  </a>
 </p>
 
 <p align="center">
